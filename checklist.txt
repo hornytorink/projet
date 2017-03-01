@@ -1,2 +1,3 @@
 test de mise a jour
 message important
+ajout message pour test la fonctionalité automatique du add
