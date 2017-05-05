@@ -1,5 +1,5 @@
 test de mise a jour
 message important
-ajout message pour test la fonctionalité automatique du add
+ajout message pour test la fonctionalitÃ© automatique du add
 j'ajoute une liste pour feter la reprise des cours sur git
-
+Je rajoute une ligne pour tester la modification en ligne sur github
